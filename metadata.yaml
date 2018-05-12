@@ -1,0 +1,27 @@
+_repo: Shepp-s-Photographs-of-the-World_26037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Shepp, Daniel B.
+    gutenberg_agent_id: '31752'
+    url: http://www.gutenberg.org/2009/agents/31752
+  - agent_name: Shepp, James W.
+    gutenberg_agent_id: '31751'
+    url: http://www.gutenberg.org/2009/agents/31751
+description: ''
+gutenberg_issued: '2008-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Views'
+title: Shepp's Photographs of the World
+url: http://www.gutenberg.org/ebooks/26037
