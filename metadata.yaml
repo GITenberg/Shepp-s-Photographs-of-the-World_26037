@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31751'
     url: http://www.gutenberg.org/2009/agents/31751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26037#Shepp-s-Photographs-of-the-World
 gutenberg_issued: '2008-07-12'
 gutenberg_type: Text
 identifiers:
